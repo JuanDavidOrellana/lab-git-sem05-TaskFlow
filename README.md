@@ -77,7 +77,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ![Pantalla principal de TaskFlow](docs/img/inicio.png)
 
 ### Inicio de sesión o registro
-![Inicio de sesión de TaskFlow](sesion.png)
+![Inicio de sesión de TaskFlow](docs/img/sesion.png)
 
 ### Funcionalidad principal: gestión de tareas
 ![Inicio de sesión de TaskFlow](docs/img/registro.png)
