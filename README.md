@@ -74,16 +74,16 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ## Capturas de pantalla
 
 ### Pantalla principal
-![Pantalla principal de TaskFlow](inicio.png)
+![Pantalla principal de TaskFlow](docs/img/inicio.png)
 
 ### Inicio de sesión o registro
 ![Inicio de sesión de TaskFlow](sesion.png)
 
 ### Funcionalidad principal: gestión de tareas
-![Gestión de tareas](registro.png)
+![Inicio de sesión de TaskFlow](docs/img/registro.png)
 
 ### Otra pantalla relevante
-![Detalle de una tarea](detalle-tarea.png)
+![Detalle de una tarea](docs/img/detalle-tarea.png)
 
 ## Estructura del proyecto
 
@@ -120,4 +120,3 @@ flowchart LR
 ## Licencia
 
 Este proyecto se presenta con fines académicos. La licencia está por definir.
-
